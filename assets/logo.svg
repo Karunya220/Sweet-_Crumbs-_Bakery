@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" width="200" height="80">
+  <!-- Background cupcake shape -->
+  <path d="M100 65c-8 0-15-4-20-10-5-6-7-14-5-22 2-8 8-14 16-16 8-2 16 0 22 6 6 6 8 14 6 22-2 8-8 14-16 16-1 0-2 0-3 0z" fill="#FFD1DC"/>
+  
+  <!-- Frosting -->
+  <path d="M120 43c0 11-9 20-20 20s-20-9-20-20c0-11 9-20 20-20s20 9 20 20z" fill="#FFF8E7"/>
+  
+  <!-- Cupcake base -->
+  <path d="M115 43v2c0 8-7 15-15 15s-15-7-15-15v-2h30z" fill="#C8A165"/>
+  
+  <!-- Cherry on top -->
+  <circle cx="100" cy="28" r="5" fill="#FF6B6B"/>
+  <path d="M98 28c1-5 5-8 8-6 1 0-5-5-8 6z" fill="#4CAF50"/>
+  
+  <!-- Text: Sweet Crumbs -->
+  <text x="100" y="75" font-family="'Poppins', sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="#C8A165">Sweet Crumbs</text>
+  
+  <!-- Sprinkles -->
+  <circle cx="90" cy="33" r="1.5" fill="#5D9CEC"/>
+  <circle cx="110" cy="35" r="1.5" fill="#FFCE54"/>
+  <circle cx="95" cy="30" r="1.5" fill="#A0D468"/>
+  <circle cx="105" cy="31" r="1.5" fill="#EC87C0"/>
+  <circle cx="88" cy="38" r="1.5" fill="#AC92EC"/>
+  <circle cx="112" cy="41" r="1.5" fill="#FF8A65"/>
+  <circle cx="102" cy="36" r="1.5" fill="#4FC1E9"/>
+  <circle cx="97" cy="39" r="1.5" fill="#FFCE54"/>
+</svg>

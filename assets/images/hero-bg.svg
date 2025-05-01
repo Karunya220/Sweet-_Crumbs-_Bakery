@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF6B6B" />
+      <stop offset="100%" stop-color="#8C52FF" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bgGradient)" />
+  
+  <!-- Decorative elements -->
+  <circle cx="200" cy="150" r="80" fill="#FFCA7A" opacity="0.7" />
+  <circle cx="1400" cy="200" r="120" fill="#FF9A8B" opacity="0.6" />
+  <circle cx="1200" cy="600" r="150" fill="#A177FF" opacity="0.5" />
+  <circle cx="400" cy="700" r="100" fill="#82D8EE" opacity="0.6" />
+  
+  <!-- Pattern overlay -->
+  <path d="M0,800 L1600,800 L1600,650 C1450,700 1300,620 1150,680 C1000,740 850,600 700,650 C550,700 400,600 250,650 C100,700 0,650 0,700 Z" fill="#ffffff" opacity="0.3" />
+  
+  <!-- Baking-themed icons -->
+  <g transform="translate(800, 400)" fill="#ffffff" opacity="0.2">
+    <!-- Whisk -->
+    <path d="M-350,-200 C-320,-230 -280,-200 -250,-230 C-220,-260 -190,-230 -160,-260 C-130,-290 -100,-260 -70,-290" stroke="#ffffff" stroke-width="8" fill="none" />
+    
+    <!-- Cake -->
+    <rect x="-50" y="-250" width="100" height="80" rx="5" />
+    <rect x="-70" y="-280" width="140" height="30" rx="10" />
+    
+    <!-- Cupcake -->
+    <path d="M200,-200 L230,-200 L230,-180 C230,-160 250,-150 250,-130 C250,-110 230,-100 230,-80 L200,-80 C200,-100 180,-110 180,-130 C180,-150 200,-160 200,-180 Z" />
+    <circle cx="215" cy="-210" r="15" />
+    
+    <!-- Rolling pin -->
+    <rect x="50" y="-300" width="20" height="150" rx="10" />
+    <rect x="40" y="-310" width="40" height="10" rx="5" />
+    <rect x="40" y="-150" width="40" height="10" rx="5" />
+  </g>
+</svg>

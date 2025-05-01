@@ -1,0 +1,60 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="300" fill="#F8F8F8"/>
+    
+    <!-- Tart Base -->
+    <circle cx="150" cy="150" r="80" fill="#DDB98F"/>
+    <circle cx="150" cy="150" r="70" fill="#FFEFCC"/>
+    
+    <!-- Custard Filling -->
+    <circle cx="150" cy="150" r="65" fill="#FFF8DB"/>
+    
+    <!-- Fruit Toppings -->
+    <!-- Strawberries -->
+    <path d="M120 110 C117 103 123 98 130 100 C135 102 137 110 130 115 Z" fill="#D13838"/>
+    <path d="M150 95 C147 88 153 83 160 85 C165 87 167 95 160 100 Z" fill="#D13838"/>
+    <path d="M180 110 C177 103 183 98 190 100 C195 102 197 110 190 115 Z" fill="#D13838"/>
+    
+    <!-- Blueberries -->
+    <circle cx="110" cy="130" r="8" fill="#324A80"/>
+    <circle cx="130" cy="160" r="8" fill="#324A80"/>
+    <circle cx="160" cy="175" r="8" fill="#324A80"/>
+    <circle cx="190" cy="160" r="8" fill="#324A80"/>
+    <circle cx="195" cy="130" r="8" fill="#324A80"/>
+    
+    <!-- Kiwi Slices -->
+    <circle cx="110" cy="170" r="12" fill="#567D3E"/>
+    <circle cx="110" cy="170" r="10" fill="#90BD67"/>
+    <circle cx="110" cy="170" r="6" fill="#FFFFFF"/>
+    <circle cx="107" cy="167" r="1" fill="#333333"/>
+    <circle cx="113" cy="167" r="1" fill="#333333"/>
+    <circle cx="107" cy="173" r="1" fill="#333333"/>
+    <circle cx="113" cy="173" r="1" fill="#333333"/>
+    
+    <circle cx="190" cy="190" r="12" fill="#567D3E"/>
+    <circle cx="190" cy="190" r="10" fill="#90BD67"/>
+    <circle cx="190" cy="190" r="6" fill="#FFFFFF"/>
+    <circle cx="187" cy="187" r="1" fill="#333333"/>
+    <circle cx="193" cy="187" r="1" fill="#333333"/>
+    <circle cx="187" cy="193" r="1" fill="#333333"/>
+    <circle cx="193" cy="193" r="1" fill="#333333"/>
+    
+    <!-- Orange Slices -->
+    <circle cx="150" cy="140" r="15" fill="#FF9F29"/>
+    <circle cx="150" cy="140" r="12" fill="#FFD393"/>
+    <circle cx="150" cy="140" r="2" fill="#FF9F29"/>
+    <line x1="150" y1="125" x2="150" y2="155" stroke="#FF9F29" stroke-width="1"/>
+    <line x1="135" y1="140" x2="165" y2="140" stroke="#FF9F29" stroke-width="1"/>
+    <line x1="138" y1="128" x2="162" y2="152" stroke="#FF9F29" stroke-width="1"/>
+    <line x1="162" y1="128" x2="138" y2="152" stroke="#FF9F29" stroke-width="1"/>
+    
+    <!-- Mint Leaves -->
+    <path d="M130 125 C135 115 145 120 140 130 Z" fill="#2D7D46"/>
+    <path d="M170 125 C165 115 155 120 160 130 Z" fill="#2D7D46"/>
+    
+    <!-- Glaze Shine -->
+    <circle cx="120" cy="115" r="3" fill="#FFFFFF" opacity="0.7"/>
+    <circle cx="160" cy="95" r="3" fill="#FFFFFF" opacity="0.7"/>
+    <circle cx="190" cy="110" r="3" fill="#FFFFFF" opacity="0.7"/>
+    
+    <text x="150" y="250" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">Fruit Tart</text>
+</svg>

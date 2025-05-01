@@ -1,0 +1,49 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="600" height="400" fill="#F8F8F8"/>
+    
+    <!-- Cake Base - Multiple Tiers -->
+    <rect x="150" y="200" width="300" height="150" rx="10" fill="#FFD1DC"/>
+    <rect x="180" y="150" width="240" height="70" rx="10" fill="#FFECF5"/>
+    <rect x="220" y="100" width="160" height="50" rx="10" fill="#FFD1DC"/>
+    
+    <!-- Frosting/Icing Details -->
+    <path d="M150 200 C150 200 175 220 200 200 C225 180 250 200 275 200 C300 200 325 180 350 200 C375 220 400 200 425 200 C450 200 450 200 450 200" stroke="#FFFFFF" stroke-width="10"/>
+    
+    <path d="M180 150 C180 150 200 170 220 150 C240 130 260 150 280 150 C300 150 320 130 340 150 C360 170 380 150 400 150 C420 150 420 150 420 150" stroke="#FFFFFF" stroke-width="8"/>
+    
+    <path d="M220 100 C220 100 235 115 250 100 C265 85 280 100 295 100 C310 100 325 85 340 100 C355 115 370 100 380 100" stroke="#FFFFFF" stroke-width="6"/>
+    
+    <!-- Candles -->
+    <rect x="250" y="60" width="10" height="40" fill="#3498DB"/>
+    <rect x="300" y="50" width="10" height="50" fill="#E74C3C"/>
+    <rect x="350" y="65" width="10" height="35" fill="#2ECC71"/>
+    
+    <!-- Flames -->
+    <ellipse cx="255" cy="55" rx="7" ry="10" fill="#FFC107"/>
+    <ellipse cx="305" cy="45" rx="7" ry="10" fill="#FFC107"/>
+    <ellipse cx="355" cy="60" rx="7" ry="10" fill="#FFC107"/>
+    
+    <!-- Decorations -->
+    <circle cx="200" cy="230" r="10" fill="#FFFFFF"/>
+    <circle cx="250" cy="230" r="10" fill="#FFFFFF"/>
+    <circle cx="300" cy="230" r="10" fill="#FFFFFF"/>
+    <circle cx="350" cy="230" r="10" fill="#FFFFFF"/>
+    <circle cx="400" cy="230" r="10" fill="#FFFFFF"/>
+    
+    <circle cx="220" cy="275" r="10" fill="#FFFFFF"/>
+    <circle cx="275" cy="275" r="10" fill="#FFFFFF"/>
+    <circle cx="330" cy="275" r="10" fill="#FFFFFF"/>
+    <circle cx="385" cy="275" r="10" fill="#FFFFFF"/>
+    
+    <!-- Sprinkles -->
+    <rect x="210" cy="180" width="15" height="5" rx="2.5" fill="#FFC107"/>
+    <rect x="240" cy="165" width="15" height="5" rx="2.5" fill="#3498DB" transform="rotate(45 240 165)"/>
+    <rect x="290" cy="170" width="15" height="5" rx="2.5" fill="#E74C3C" transform="rotate(-30 290 170)"/>
+    <rect x="340" cy="175" width="15" height="5" rx="2.5" fill="#2ECC71" transform="rotate(60 340 175)"/>
+    <rect x="370" cy="185" width="15" height="5" rx="2.5" fill="#9B59B6"/>
+    
+    <!-- Custom Text -->
+    <text x="300" y="250" font-family="Arial" font-size="16" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Happy Birthday!</text>
+    
+    <text x="300" y="380" font-family="Arial" font-size="18" fill="#333333" text-anchor="middle">Birthday Cake</text>
+</svg>

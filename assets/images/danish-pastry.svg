@@ -1,0 +1,35 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="300" fill="#F8F8F8"/>
+    
+    <!-- Danish Base -->
+    <path d="M75 150 C75 100 225 100 225 150 C225 200 75 200 75 150 Z" fill="#DDB98F"/>
+    
+    <!-- Pastry Layers Texture -->
+    <path d="M85 145 C85 115 215 115 215 145" stroke="#C8A165" stroke-width="2" fill="none"/>
+    <path d="M95 140 C95 120 205 120 205 140" stroke="#C8A165" stroke-width="2" fill="none"/>
+    <path d="M105 135 C105 125 195 125 195 135" stroke="#C8A165" stroke-width="2" fill="none"/>
+    
+    <!-- Center Filling -->
+    <ellipse cx="150" cy="150" rx="40" ry="30" fill="#FF9F1C"/>
+    
+    <!-- Fruit/Berry Topping -->
+    <circle cx="150" cy="150" r="20" fill="#D13838"/>
+    <path d="M145 135 L150 130 L155 135" stroke="#2D7D46" stroke-width="2" fill="none"/>
+    
+    <!-- Sugar Glaze -->
+    <path d="M85 155 C85 185 215 185 215 155" stroke="#FFFFFF" stroke-width="4" fill="none" opacity="0.7"/>
+    <circle cx="120" cy="170" r="2" fill="#FFFFFF" opacity="0.9"/>
+    <circle cx="140" cy="175" r="2" fill="#FFFFFF" opacity="0.9"/>
+    <circle cx="160" cy="175" r="2" fill="#FFFFFF" opacity="0.9"/>
+    <circle cx="180" cy="170" r="2" fill="#FFFFFF" opacity="0.9"/>
+    
+    <!-- Flaky Crust Detail -->
+    <path d="M90 150 L95 145" stroke="#9E7B41" stroke-width="1"/>
+    <path d="M110 145 L115 140" stroke="#9E7B41" stroke-width="1"/>
+    <path d="M130 140 L135 135" stroke="#9E7B41" stroke-width="1"/>
+    <path d="M165 135 L170 140" stroke="#9E7B41" stroke-width="1"/>
+    <path d="M185 140 L190 145" stroke="#9E7B41" stroke-width="1"/>
+    <path d="M205 150 L210 155" stroke="#9E7B41" stroke-width="1"/>
+    
+    <text x="150" y="230" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">Danish Pastry</text>
+</svg>

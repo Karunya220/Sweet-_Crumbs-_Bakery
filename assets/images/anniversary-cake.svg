@@ -1,0 +1,36 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="600" height="400" fill="#F8F8F8"/>
+    
+    <!-- Heart-shaped Red Velvet Cake -->
+    <path d="M300 320 L350 270 C380 240 420 240 450 270 C480 300 480 350 450 380 C420 410 360 430 300 380 C240 430 180 410 150 380 C120 350 120 300 150 270 C180 240 220 240 250 270 L300 320 Z" fill="#B71C1C"/>
+    
+    <!-- Frosting/Icing (Cream Cheese Color) -->
+    <path d="M300 300 L345 255 C370 230 405 230 430 255 C455 280 455 320 430 345 C405 370 355 390 300 345 C245 390 195 370 170 345 C145 320 145 280 170 255 C195 230 230 230 255 255 L300 300 Z" fill="#F5F5F5"/>
+    
+    <!-- Heart Cake Center Detail -->
+    <path d="M300 280 L340 240 C360 220 390 220 410 240 C430 260 430 290 410 310 C390 330 350 345 300 310 C250 345 210 330 190 310 C170 290 170 260 190 240 C210 220 240 220 260 240 L300 280 Z" fill="#E57373"/>
+    
+    <!-- Decorative Borders -->
+    <path d="M300 300 L345 255 C370 230 405 230 430 255 C455 280 455 320 430 345 C405 370 355 390 300 345 C245 390 195 370 170 345 C145 320 145 280 170 255 C195 230 230 230 255 255 L300 300 Z" stroke="#D32F2F" stroke-width="2" fill="none"/>
+    
+    <!-- Top Decorations - Small Heart Toppers -->
+    <path d="M250 220 L260 210 C265 205 275 205 280 210 C285 215 285 225 280 230 C275 235 265 240 260 235 C255 240 245 235 240 230 C235 225 235 215 240 210 C245 205 255 205 250 210 L250 220 Z" fill="#E57373"/>
+    
+    <path d="M300 200 L310 190 C315 185 325 185 330 190 C335 195 335 205 330 210 C325 215 315 220 310 215 C305 220 295 215 290 210 C285 205 285 195 290 190 C295 185 305 185 300 190 L300 200 Z" fill="#E57373"/>
+    
+    <path d="M350 220 L360 210 C365 205 375 205 380 210 C385 215 385 225 380 230 C375 235 365 240 360 235 C355 240 345 235 340 230 C335 225 335 215 340 210 C345 205 355 205 350 210 L350 220 Z" fill="#E57373"/>
+    
+    <!-- Piping Details - Small Swirls -->
+    <path d="M240 270 C235 265 235 260 240 255 C245 250 250 250 255 255" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+    <path d="M270 240 C265 235 265 230 270 225 C275 220 280 220 285 225" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+    <path d="M330 240 C335 235 335 230 330 225 C325 220 320 220 315 225" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+    <path d="M360 270 C365 265 365 260 360 255 C355 250 350 250 345 255" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+    
+    <!-- Anniversary Text on Cake -->
+    <text x="300" y="280" font-family="cursive, Arial" font-size="16" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Happy Anniversary</text>
+    
+    <!-- Base Plate -->
+    <ellipse cx="300" cy="390" rx="180" ry="10" fill="#E0E0E0"/>
+    
+    <text x="300" y="350" font-family="Arial" font-size="14" fill="#333333" text-anchor="middle">Red Velvet Anniversary Cake</text>
+</svg>

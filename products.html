@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Products - Sweet Crumbs Bakery</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="container">
+            <div class="logo">
+                <a href="index.html">
+                    <img src="assets/logo.svg" alt="Sweet Crumbs Bakery Logo">
+                </a>
+            </div>
+            <nav>
+                <div class="mobile-menu-toggle">
+                    <i class="fas fa-bars"></i>
+                </div>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="products.html" class="active">Products</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Page Banner -->
+    <section class="page-banner">
+        <div class="container">
+            <h1>Our Products</h1>
+            <p>Explore our delicious range of freshly baked goods</p>
+        </div>
+    </section>
+
+    <!-- Products Filter -->
+    <section class="products-filter">
+        <div class="container">
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-filter="all">All Products</button>
+                <button class="filter-btn" data-filter="cakes">Cakes</button>
+                <button class="filter-btn" data-filter="breads">Breads</button>
+                <button class="filter-btn" data-filter="pastries">Pastries</button>
+                <button class="filter-btn" data-filter="cookies">Cookies</button>
+                <button class="filter-btn" data-filter="seasonal">Seasonal</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Products Section -->
+    <section class="products-section">
+        <div class="container">
+            <div class="products-grid">
+                <!-- Cakes -->
+                <div class="product-card" data-category="cakes">
+                    <div class="product-image">
+                        <img src="assets/images/cake.svg" alt="Designer Cake">
+                    </div>
+                    <div class="product-info">
+                        <h3>Designer Cakes</h3>
+                        <p>Customized cakes for every special occasion</p>
+                        <p class="product-price">Starting from ₹800</p>
+                    </div>
+                </div>
+                <div class="product-card" data-category="cakes">
+                    <div class="product-image">
+                        <img src="assets/images/wedding-cake.svg" alt="Wedding Cake">
+                    </div>
+                    <div class="product-info">
+                        <h3>Wedding Cakes</h3>
+                        <p>Elegant multi-tier cakes for your special day</p>
+                        <p class="product-price">Starting from ₹3000</p>
+                    </div>
+                </div>
+                <div class="product-card" data-category="cakes">
+                    <div class="product-image">
+                        <img src="assets/images/birthday-cake.svg" alt="Birthday Cake">
+                    </div>
+                    <div class="product-info">
+                        <h3>Birthday Cakes</h3>
+                        <p>Colorful and fun cakes for celebration</p>
+                        <p class="product-price">Starting from ₹600</p>
+                    </div>
+                </div>
+                <div class="product-card" data-category="cakes">
+                    <div class="product-image">
+                        <img src="assets/images/cupcake.svg" alt="Cupcakes">
+                    </div>
+                    <div class="product-info">
+                        <h3>Cupcakes</h3>
+                        <p>Perfect bite-sized treats for any occasion</p>
+                        <p class="product-price">₹60 per piece</p>
+                    </div>
+                </div>
+
+                <!-- Breads -->
+                <div class="product-card" data-category="breads">
+                    <div class="product-image">
+                        <img src="assets/images/sourdough-bread.svg" alt="Sourdough Bread">
+                    </div>
+                    <div class="product-info">
+                        <h3>Sourdough Bread</h3>
+                        <p>Artisanal bread with a tangy flavor</p>
+                        <p class="product-price">₹120 per loaf</p>
+                    </div>
+                </div>
+                <div class="product-card" data-category="breads">
+                    <div class="product-image">
+                        <img src="assets/images/multigrain-bread.svg" alt="Multigrain Bread">
+                    </div>
+                    <div class="product-info">
+                        <h3>Multigrain Bread</h3>
+                        <p>Healthy and nutritious bread with mixed grains</p>
+                        <p class="product-price">₹90 per loaf</p>
+                    </div>
+                </div>
+                <div class="product-card" data-category="breads">
+                    <div class="product-image">
+                        <img src="assets/images/baguette.svg" alt="Baguette">
+                    </div>
+                    <div class="product-info">
+                        <h3>Baguette</h3>
+                        <p>French-style crusty bread, perfect with soups</p>
+                        <p class="product-price">₹70 per piece</p>
+                    </div>
+                </div>
+
+                <!-- Pastries -->
+                <div class="product-card" data-category="pastries">
+                    <div class="product-image">
+                        <img src="assets/images/croissant.svg" alt="Croissants">
+                    </div>
+                    <div class="product-info">
+                        <h3>Croissants</h3>
+                        <p>Buttery, flaky pastries - plain or chocolate-filled</p>
+                        <p class="product-price">₹50 per piece</p>
+                    </div>
+                </div>
+                <div class="product-card" data-category="pastries">
+                    <div class="product-image">
+                        <img src="assets/images/fruit-tart.svg" alt="Fruit Tarts">
+                    </div>
+                    <div class="product-info">
+                        <h3>Fruit Tarts</h3>
+                        <p>Beautiful tarts topped with seasonal fruits</p>
+                        <p class="product-price">₹80 per piece</p>
+                    </div>
+                </div>
+                <div class="product-card" data-category="pastries">
+                    <div class="product-image">
+                        <img src="assets/images/danish-pastry.svg" alt="Danish Pastry">
+                    </div>
+                    <div class="product-info">
+                        <h3>Danish Pastry</h3>
+                        <p>Sweet pastries with various fillings</p>
+                        <p class="product-price">₹60 per piece</p>
+                    </div>
+                </div>
+
+                <!-- Cookies -->
+                <div class="product-card" data-category="cookies">
+                    <div class="product-image">
+                        <img src="assets/images/chocolate-chip-cookies.svg" alt="Chocolate Chip Cookies">
+                    </div>
+                    <div class="product-info">
+                        <h3>Chocolate Chip Cookies</h3>
+                        <p>Classic cookies loaded with chocolate chips</p>
+                        <p class="product-price">₹30 per piece</p>
+                    </div>
+                </div>
+                <div class="product-card" data-category="cookies">
+                    <div class="product-image">
+                        <img src="https://images.unsplash.com/photo-1558961363-fa8fdf82db35" alt="Shortbread Cookies">
+                    </div>
+                    <div class="product-info">
+                        <h3>Shortbread Cookies</h3>
+                        <p>Buttery, melt-in-your-mouth cookies</p>
+                        <p class="product-price">₹25 per piece</p>
+                    </div>
+                </div>
+
+                <!-- Seasonal -->
+                <div class="product-card" data-category="seasonal">
+                    <div class="product-image">
+                        <img src="https://images.unsplash.com/photo-1481391319762-47dff72954d9" alt="Diwali Special">
+                    </div>
+                    <div class="product-info">
+                        <h3>Diwali Special</h3>
+                        <p>Festive treats for the festival of lights</p>
+                        <p class="product-price">Varies by selection</p>
+                    </div>
+                </div>
+                <div class="product-card" data-category="seasonal">
+                    <div class="product-image">
+                        <img src="https://images.unsplash.com/photo-1544507297-eadaf03b711b" alt="Christmas Collection">
+                    </div>
+                    <div class="product-info">
+                        <h3>Christmas Collection</h3>
+                        <p>Holiday-themed cakes and cookies</p>
+                        <p class="product-price">Varies by selection</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Custom Orders Section -->
+    <section class="custom-orders">
+        <div class="container">
+            <div class="custom-content">
+                <div class="custom-text">
+                    <h2 class="section-title">Custom Orders</h2>
+                    <p>Looking for something special? We love creating unique, custom designs for your celebrations.</p>
+                    <p>Contact us at least 48 hours in advance for custom cake orders and 24 hours for other custom items.</p>
+                    <a href="contact.html" class="btn primary-btn">Request a Custom Order</a>
+                </div>
+                <div class="custom-image">
+                    <img src="https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7" alt="Custom Cake Design">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <img src="assets/logo.svg" alt="Sweet Crumbs Bakery Logo">
+                    <p>Spreading joy through delicious baked goods since 2021</p>
+                </div>
+                <div class="footer-links">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="products.html">Products</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-social">
+                    <h3>Connect With Us</h3>
+                    <div class="social-icons">
+                        <a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://wa.me/919876543210" target="_blank"><i class="fab fa-whatsapp"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2025 Sweet Crumbs Bakery. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript Files -->
+    <script src="js/main.js"></script>
+    <script>
+        // Product filtering
+        document.addEventListener('DOMContentLoaded', function() {
+            const filterButtons = document.querySelectorAll('.filter-btn');
+            const productCards = document.querySelectorAll('.product-card');
+
+            filterButtons.forEach(button => {
+                button.addEventListener('click', function() {
+                    // Remove active class from all buttons
+                    filterButtons.forEach(btn => btn.classList.remove('active'));
+                    // Add active class to clicked button
+                    this.classList.add('active');
+
+                    const filter = this.getAttribute('data-filter');
+
+                    productCards.forEach(card => {
+                        if (filter === 'all' || card.getAttribute('data-category') === filter) {
+                            card.style.display = 'block';
+                        } else {
+                            card.style.display = 'none';
+                        }
+                    });
+                });
+            });
+        });
+    </script>
+</body>
+</html>

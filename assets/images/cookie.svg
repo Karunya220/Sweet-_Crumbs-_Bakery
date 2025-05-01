@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <!-- Cookie base -->
+  <circle cx="150" cy="150" r="100" fill="#D2691E" />
+  
+  <!-- Cookie texture -->
+  <circle cx="150" cy="150" r="95" fill="#CD853F" />
+  
+  <!-- Cookie edge texture -->
+  <path d="M150,55 C205,55 245,95 245,150 C245,205 205,245 150,245 C95,245 55,205 55,150 C55,95 95,55 150,55 Z" fill="none" stroke="#A0522D" stroke-width="2" stroke-dasharray="5,3" />
+  
+  <!-- Chocolate chips -->
+  <circle cx="100" cy="100" r="8" fill="#3E2723" />
+  <circle cx="130" cy="80" r="7" fill="#3E2723" />
+  <circle cx="170" cy="90" r="9" fill="#3E2723" />
+  <circle cx="200" cy="120" r="8" fill="#3E2723" />
+  <circle cx="210" cy="170" r="7" fill="#3E2723" />
+  <circle cx="180" cy="200" r="9" fill="#3E2723" />
+  <circle cx="130" cy="210" r="8" fill="#3E2723" />
+  <circle cx="90" cy="190" r="7" fill="#3E2723" />
+  <circle cx="70" cy="150" r="8" fill="#3E2723" />
+  <circle cx="100" cy="140" r="6" fill="#3E2723" />
+  <circle cx="150" cy="120" r="7" fill="#3E2723" />
+  <circle cx="170" cy="150" r="8" fill="#3E2723" />
+  <circle cx="140" cy="180" r="6" fill="#3E2723" />
+  
+  <!-- Cookie cracks -->
+  <path d="M90,100 C110,110 120,140 110,160" fill="none" stroke="#A0522D" stroke-width="1" />
+  <path d="M170,90 C190,110 190,140 170,170" fill="none" stroke="#A0522D" stroke-width="1" />
+  <path d="M130,80 C150,100 160,120 150,150" fill="none" stroke="#A0522D" stroke-width="1" />
+  <path d="M90,190 C110,170 140,180 150,200" fill="none" stroke="#A0522D" stroke-width="1" />
+  
+  <!-- Cookie shine -->
+  <ellipse cx="120" cy="110" rx="45" ry="30" fill="#F5DEB3" opacity="0.2" />
+</svg>

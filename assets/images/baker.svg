@@ -1,0 +1,41 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="300" fill="#F8F8F8"/>
+    
+    <!-- Background Circle -->
+    <circle cx="150" cy="150" r="120" fill="#FFE9C8" opacity="0.7"/>
+    
+    <!-- Person Silhouette -->
+    <circle cx="150" cy="100" r="50" fill="#FFC5A0"/>  <!-- Head -->
+    
+    <!-- Hair -->
+    <path d="M100 100 C100 70 130 50 150 50 C170 50 200 70 200 100" fill="#6D4534"/>
+    
+    <!-- Chef Hat -->
+    <rect x="110" y="45" width="80" height="20" rx="10" fill="#FFFFFF"/>
+    <path d="M110 55 C110 35 125 25 150 25 C175 25 190 35 190 55" fill="#FFFFFF"/>
+    
+    <!-- Eyes -->
+    <circle cx="130" cy="100" r="6" fill="#472D25"/>
+    <circle cx="170" cy="100" r="6" fill="#472D25"/>
+    
+    <!-- Smile -->
+    <path d="M130 125 C140 140, 160 140, 170 125" stroke="#472D25" stroke-width="3" fill="none"/>
+    
+    <!-- Body/Chef Coat -->
+    <rect x="120" y="150" width="60" height="100" rx="10" fill="#FFFFFF"/>
+    
+    <!-- Chef Coat Details -->
+    <rect x="120" y="150" width="30" height="100" fill="#FFFFFF"/>
+    <rect x="150" y="150" width="30" height="100" fill="#F5F5F5"/>
+    <circle cx="135" cy="170" r="4" fill="#333333"/>
+    <circle cx="135" cy="190" r="4" fill="#333333"/>
+    <circle cx="135" cy="210" r="4" fill="#333333"/>
+    
+    <!-- Rolling Pin -->
+    <rect x="90" y="160" width="60" height="10" rx="5" fill="#C8A165"/>
+    <rect x="80" y="160" width="10" height="10" rx="5" fill="#9E7B41"/>
+    <rect x="150" y="160" width="10" height="10" rx="5" fill="#9E7B41"/>
+    
+    <text x="150" y="270" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">Radhika Soni</text>
+    <text x="150" y="290" font-family="Arial" font-size="12" fill="#666" text-anchor="middle">Founder & Head Baker</text>
+</svg>

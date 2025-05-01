@@ -1,0 +1,25 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="300" fill="#F8F8F8"/>
+    
+    <!-- Croissant Base -->
+    <path d="M75 175 C75 175 95 125 125 100 C145 85 195 85 230 110 C235 115 240 145 225 155 C215 165 185 175 160 175 C140 175 115 185 100 180 C85 175 75 175 75 175 Z" fill="#DDB98F"/>
+    
+    <!-- Croissant Texture -->
+    <path d="M80 175 C80 175 110 130 125 115" stroke="#C8A165" stroke-width="2" stroke-linecap="round"/>
+    <path d="M100 175 C100 175 125 140 135 130" stroke="#C8A165" stroke-width="2" stroke-linecap="round"/>
+    <path d="M125 175 C125 175 140 150 150 140" stroke="#C8A165" stroke-width="2" stroke-linecap="round"/>
+    <path d="M150 175 C150 175 165 155 175 145" stroke="#C8A165" stroke-width="2" stroke-linecap="round"/>
+    <path d="M175 175 C175 175 185 160 195 150" stroke="#C8A165" stroke-width="2" stroke-linecap="round"/>
+    <path d="M195 170 C195 170 210 155 215 145" stroke="#C8A165" stroke-width="2" stroke-linecap="round"/>
+    
+    <!-- Browned Edges -->
+    <path d="M125 100 C145 85 195 85 230 110" stroke="#9E7B41" stroke-width="4" stroke-linecap="round"/>
+    <path d="M75 175 C85 175 100 180 115 180" stroke="#9E7B41" stroke-width="4" stroke-linecap="round"/>
+    <path d="M225 155 C215 165 185 175 160 175" stroke="#9E7B41" stroke-width="4" stroke-linecap="round"/>
+    
+    <!-- Buttery Shine / Highlights -->
+    <ellipse cx="160" cy="130" rx="30" ry="20" fill="#FFE9B1" opacity="0.4"/>
+    <ellipse cx="120" cy="150" rx="15" ry="10" fill="#FFE9B1" opacity="0.4"/>
+    
+    <text x="150" y="225" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">Croissant</text>
+</svg>

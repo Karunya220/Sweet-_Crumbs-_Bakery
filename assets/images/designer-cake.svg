@@ -1,0 +1,82 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="600" height="400" fill="#F8F8F8"/>
+    
+    <!-- Cake Stand -->
+    <ellipse cx="300" cy="385" rx="180" ry="15" fill="#E0E0E0"/>
+    <rect x="275" y="350" width="50" height="35" fill="#D0D0D0"/>
+    
+    <!-- Main Cake Body - Asymmetrical Modern Design -->
+    <path d="M200 350 L400 350 L380 200 L220 200 Z" fill="#FFFFFF"/>
+    
+    <!-- Fondant Side Panels in Light Blue -->
+    <path d="M220 200 L200 350 L240 350 L250 200 Z" fill="#E3F2FD"/>
+    <path d="M380 200 L400 350 L360 350 L350 200 Z" fill="#E3F2FD"/>
+    
+    <!-- Gold Accents -->
+    <path d="M250 200 L270 200 L265 350 L240 350 Z" fill="#FFF176" opacity="0.7"/>
+    <path d="M350 200 L330 200 L335 350 L360 350 Z" fill="#FFF176" opacity="0.7"/>
+    
+    <!-- Modern Geometrical Elements -->
+    <rect x="270" y="220" width="60" height="110" fill="#90CAF9"/>
+    <circle cx="300" cy="190" r="40" fill="#FFFFFF"/>
+    
+    <!-- Abstract Geometric Decorations -->
+    <rect x="280" y="230" width="40" height="5" fill="#FFF176"/>
+    <rect x="285" y="245" width="30" height="5" fill="#FFF176"/>
+    <rect x="290" y="260" width="20" height="5" fill="#FFF176"/>
+    <rect x="280" y="275" width="40" height="5" fill="#FFF176"/>
+    <rect x="285" y="290" width="30" height="5" fill="#FFF176"/>
+    <rect x="290" y="305" width="20" height="5" fill="#FFF176"/>
+    <rect x="280" y="320" width="40" height="5" fill="#FFF176"/>
+    
+    <!-- Artistic Handcrafted Fondant Flowers -->
+    <!-- Flower 1 -->
+    <circle cx="300" cy="160" r="15" fill="#F8BBD0"/>
+    <circle cx="300" cy="160" r="10" fill="#F48FB1"/>
+    <circle cx="300" cy="160" r="5" fill="#EC407A"/>
+    
+    <!-- Flower Petals -->
+    <circle cx="315" cy="155" r="8" fill="#F8BBD0"/>
+    <circle cx="318" cy="168" r="8" fill="#F8BBD0"/>
+    <circle cx="305" cy="175" r="8" fill="#F8BBD0"/>
+    <circle cx="290" cy="173" r="8" fill="#F8BBD0"/>
+    <circle cx="285" cy="160" r="8" fill="#F8BBD0"/>
+    <circle cx="290" cy="145" r="8" fill="#F8BBD0"/>
+    <circle cx="305" cy="140" r="8" fill="#F8BBD0"/>
+    
+    <!-- Flower 2 - Smaller on side -->
+    <circle cx="240" cy="230" r="10" fill="#A5D6A7"/>
+    <circle cx="240" cy="230" r="6" fill="#81C784"/>
+    <circle cx="240" cy="230" r="3" fill="#4CAF50"/>
+    
+    <!-- Flower 2 Petals -->
+    <circle cx="250" cy="227" r="5" fill="#A5D6A7"/>
+    <circle cx="247" cy="237" r="5" fill="#A5D6A7"/>
+    <circle cx="237" cy="237" r="5" fill="#A5D6A7"/>
+    <circle cx="231" cy="230" r="5" fill="#A5D6A7"/>
+    <circle cx="237" cy="222" r="5" fill="#A5D6A7"/>
+    
+    <!-- Flower 3 - Opposite side -->
+    <circle cx="360" cy="230" r="10" fill="#FFCDD2"/>
+    <circle cx="360" cy="230" r="6" fill="#EF9A9A"/>
+    <circle cx="360" cy="230" r="3" fill="#E57373"/>
+    
+    <!-- Flower 3 Petals -->
+    <circle cx="370" cy="227" r="5" fill="#FFCDD2"/>
+    <circle cx="367" cy="237" r="5" fill="#FFCDD2"/>
+    <circle cx="357" cy="237" r="5" fill="#FFCDD2"/>
+    <circle cx="351" cy="230" r="5" fill="#FFCDD2"/>
+    <circle cx="357" cy="222" r="5" fill="#FFCDD2"/>
+    
+    <!-- Gold Leaf Accents -->
+    <path d="M320 180 C325 175 335 185 330 190" stroke="#FFF176" stroke-width="2" fill="none"/>
+    <path d="M280 180 C275 175 265 185 270 190" stroke="#FFF176" stroke-width="2" fill="none"/>
+    <path d="M225 260 C220 255 215 265 220 270" stroke="#FFF176" stroke-width="2" fill="none"/>
+    <path d="M375 260 C380 255 385 265 380 270" stroke="#FFF176" stroke-width="2" fill="none"/>
+    
+    <!-- Artistic Drips -->
+    <path d="M280 200 C280 210 275 215 275 225 C275 235 280 240 280 250" stroke="#90CAF9" stroke-width="5" fill="none"/>
+    <path d="M320 200 C320 210 325 215 325 225 C325 235 320 240 320 250" stroke="#90CAF9" stroke-width="5" fill="none"/>
+    
+    <text x="300" y="120" font-family="Arial" font-size="20" fill="#333333" text-anchor="middle">Designer Cake</text>
+</svg>

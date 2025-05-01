@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <!-- Bread loaf base -->
+  <path d="M50,150 C50,100 100,80 150,80 C200,80 250,100 250,150 L250,220 C250,240 230,250 210,250 L90,250 C70,250 50,240 50,220 Z" fill="#CD853F" />
+  
+  <!-- Bread top texture -->
+  <path d="M50,150 C50,100 100,80 150,80 C200,80 250,100 250,150" fill="none" stroke="#A0522D" stroke-width="3" />
+  
+  <!-- Bread crust -->
+  <path d="M70,100 C90,90 120,85 150,85 C180,85 210,90 230,100" fill="none" stroke="#8B4513" stroke-width="2" />
+  <path d="M60,120 C90,105 120,100 150,100 C180,100 210,105 240,120" fill="none" stroke="#8B4513" stroke-width="2" />
+  
+  <!-- Bread cuts -->
+  <path d="M90,80 L90,110" stroke="#A0522D" stroke-width="2" />
+  <path d="M130,80 L130,100" stroke="#A0522D" stroke-width="2" />
+  <path d="M170,80 L170,100" stroke="#A0522D" stroke-width="2" />
+  <path d="M210,80 L210,110" stroke="#A0522D" stroke-width="2" />
+  
+  <!-- Bread texture lines -->
+  <ellipse cx="150" cy="170" rx="90" ry="30" fill="none" stroke="#A0522D" stroke-width="1" />
+  <ellipse cx="150" cy="200" rx="90" ry="25" fill="none" stroke="#A0522D" stroke-width="1" />
+  
+  <!-- Flour specks -->
+  <circle cx="100" cy="100" r="2" fill="#F5F5F5" />
+  <circle cx="120" cy="90" r="2" fill="#F5F5F5" />
+  <circle cx="160" cy="95" r="2" fill="#F5F5F5" />
+  <circle cx="190" cy="105" r="2" fill="#F5F5F5" />
+  <circle cx="210" cy="120" r="2" fill="#F5F5F5" />
+  <circle cx="80" cy="110" r="2" fill="#F5F5F5" />
+  
+  <!-- Wooden board -->
+  <rect x="30" y="250" width="240" height="15" fill="#8B4513" />
+  <rect x="30" y="250" width="240" height="3" fill="#A0522D" />
+  <line x1="50" y1="250" x2="50" y2="265" stroke="#A0522D" stroke-width="1" />
+  <line x1="90" y1="250" x2="90" y2="265" stroke="#A0522D" stroke-width="1" />
+  <line x1="130" y1="250" x2="130" y2="265" stroke="#A0522D" stroke-width="1" />
+  <line x1="170" y1="250" x2="170" y2="265" stroke="#A0522D" stroke-width="1" />
+  <line x1="210" y1="250" x2="210" y2="265" stroke="#A0522D" stroke-width="1" />
+  <line x1="250" y1="250" x2="250" y2="265" stroke="#A0522D" stroke-width="1" />
+</svg>

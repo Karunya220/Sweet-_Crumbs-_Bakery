@@ -1,0 +1,65 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="600" height="400" fill="#F8F8F8"/>
+    
+    <!-- Cupcake Display Stand -->
+    <rect x="150" y="350" width="300" height="20" rx="5" fill="#E0E0E0"/>
+    <rect x="180" y="370" width="240" height="10" rx="5" fill="#D0D0D0"/>
+    
+    <!-- Cupcake 1 - Chocolate with Pink Frosting -->
+    <path d="M150 300 C150 250 200 250 200 300" fill="#8D6E63"/>
+    <path d="M140 300 L210 300 L200 350 L150 350 Z" fill="#A1887F"/>
+    <ellipse cx="175" cy="300" rx="35" ry="15" fill="#F8BBD0"/>
+    <ellipse cx="175" cy="290" rx="20" ry="10" fill="#F48FB1"/>
+    <circle cx="175" cy="280" r="5" fill="#FFFFFF"/>
+    <circle cx="165" cy="285" r="3" fill="#FFFFFF"/>
+    <circle cx="185" cy="285" r="3" fill="#FFFFFF"/>
+    
+    <!-- Cupcake 2 - Vanilla with Blue Frosting -->
+    <path d="M250 300 C250 250 300 250 300 300" fill="#EEEEEE"/>
+    <path d="M240 300 L310 300 L300 350 L250 350 Z" fill="#F5F5F5"/>
+    <ellipse cx="275" cy="300" rx="35" ry="15" fill="#BBDEFB"/>
+    <ellipse cx="275" cy="290" rx="20" ry="10" fill="#90CAF9"/>
+    <circle cx="275" cy="280" r="5" fill="#FFFFFF"/>
+    <circle cx="265" cy="285" r="3" fill="#FFFFFF"/>
+    <circle cx="285" cy="285" r="3" fill="#FFFFFF"/>
+    
+    <!-- Cupcake 3 - Red Velvet with Cream Cheese Frosting -->
+    <path d="M350 300 C350 250 400 250 400 300" fill="#B71C1C"/>
+    <path d="M340 300 L410 300 L400 350 L350 350 Z" fill="#C62828"/>
+    <ellipse cx="375" cy="300" rx="35" ry="15" fill="#FFF9C4"/>
+    <ellipse cx="375" cy="290" rx="20" ry="10" fill="#FFF59D"/>
+    <circle cx="375" cy="280" r="5" fill="#FFFFFF"/>
+    <circle cx="365" cy="285" r="3" fill="#FFFFFF"/>
+    <circle cx="385" cy="285" r="3" fill="#FFFFFF"/>
+    
+    <!-- Cupcake 4 - Blueberry with Purple Frosting -->
+    <path d="M450 300 C450 250 500 250 500 300" fill="#5E35B1"/>
+    <path d="M440 300 L510 300 L500 350 L450 350 Z" fill="#673AB7"/>
+    <ellipse cx="475" cy="300" rx="35" ry="15" fill="#D1C4E9"/>
+    <ellipse cx="475" cy="290" rx="20" ry="10" fill="#B39DDB"/>
+    <circle cx="475" cy="280" r="5" fill="#FFFFFF"/>
+    <circle cx="465" cy="285" r="3" fill="#FFFFFF"/>
+    <circle cx="485" cy="285" r="3" fill="#FFFFFF"/>
+    
+    <!-- Cupcake 5 - Smaller Lemon with Yellow Frosting -->
+    <path d="M200 220 C200 190 230 190 230 220" fill="#FFF59D"/>
+    <path d="M195 220 L235 220 L230 255 L200 255 Z" fill="#FFEE58"/>
+    <ellipse cx="215" cy="220" rx="20" ry="8" fill="#FFF176"/>
+    <ellipse cx="215" cy="215" rx="12" ry="6" fill="#FFEB3B"/>
+    <circle cx="215" cy="210" r="3" fill="#FFFFFF"/>
+    <circle cx="210" cy="212" r="2" fill="#FFFFFF"/>
+    <circle cx="220" cy="212" r="2" fill="#FFFFFF"/>
+    
+    <!-- Cupcake 6 - Smaller Mint with Green Frosting -->
+    <path d="M380 220 C380 190 410 190 410 220" fill="#E0F2F1"/>
+    <path d="M375 220 L415 220 L410 255 L380 255 Z" fill="#B2DFDB"/>
+    <ellipse cx="395" cy="220" rx="20" ry="8" fill="#A5D6A7"/>
+    <ellipse cx="395" cy="215" rx="12" ry="6" fill="#81C784"/>
+    <circle cx="395" cy="210" r="3" fill="#FFFFFF"/>
+    <circle cx="390" cy="212" r="2" fill="#FFFFFF"/>
+    <circle cx="400" cy="212" r="2" fill="#FFFFFF"/>
+    
+    <!-- Title -->
+    <text x="300" y="100" font-family="Arial" font-size="24" fill="#333333" text-anchor="middle" font-weight="bold">Cupcake Collection</text>
+    <text x="300" y="130" font-family="Arial" font-size="16" fill="#666666" text-anchor="middle">Assorted flavors with different toppings</text>
+</svg>

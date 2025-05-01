@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <!-- Plate -->
+  <ellipse cx="150" cy="230" rx="120" ry="30" fill="#F5F5F5" />
+  <ellipse cx="150" cy="230" rx="110" ry="25" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1" />
+  
+  <!-- Croissant base -->
+  <path d="M80,80 C100,60 120,60 140,80 C160,100 180,100 200,80 C220,60 240,80 220,100 C200,120 200,140 220,160 C240,180 220,200 200,180 C180,160 160,160 140,180 C120,200 100,200 80,180 C60,160 60,140 80,120 C100,100 100,80 80,80 Z" fill="#FFB347" />
+  
+  <!-- Croissant ridges -->
+  <path d="M90,85 C105,70 120,70 135,85 C150,100 170,100 185,85 C200,70 220,85 205,100 C190,115 190,135 205,150 C220,165 210,185 195,170 C180,155 150,155 135,170 C120,185 100,185 85,170 C70,155 70,135 85,120 C100,105 100,85 90,85 Z" fill="#FFCE54" />
+  
+  <!-- Croissant layers/details -->
+  <path d="M100,90 L170,160" stroke="#CD853F" stroke-width="1.5" fill="none" />
+  <path d="M115,85 L185,155" stroke="#CD853F" stroke-width="1.5" fill="none" />
+  <path d="M130,90 L190,150" stroke="#CD853F" stroke-width="1.5" fill="none" />
+  <path d="M90,100 L160,170" stroke="#CD853F" stroke-width="1.5" fill="none" />
+  <path d="M85,115 L155,185" stroke="#CD853F" stroke-width="1.5" fill="none" />
+  <path d="M90,130 L150,190" stroke="#CD853F" stroke-width="1.5" fill="none" />
+  <path d="M105,140 L165,200" stroke="#CD853F" stroke-width="1.5" fill="none" />
+  
+  <!-- Pastry shine/highlight -->
+  <path d="M120,80 C140,90 160,90 180,80" stroke="#FFFFFF" stroke-width="2" fill="none" opacity="0.7" />
+  <path d="M100,100 C140,120 160,120 200,100" stroke="#FFFFFF" stroke-width="2" fill="none" opacity="0.5" />
+  
+  <!-- Pastry crumbs -->
+  <circle cx="90" cy="160" r="2" fill="#FFB347" />
+  <circle cx="100" cy="180" r="1" fill="#FFB347" />
+  <circle cx="120" cy="190" r="1.5" fill="#FFB347" />
+  <circle cx="200" cy="120" r="1.5" fill="#FFB347" />
+  <circle cx="210" cy="140" r="1" fill="#FFB347" />
+  <circle cx="195" cy="160" r="2" fill="#FFB347" />
+</svg>

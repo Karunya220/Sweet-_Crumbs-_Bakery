@@ -1,0 +1,27 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="300" fill="#F8F8F8"/>
+    <rect x="70" y="120" width="160" height="120" rx="5" fill="#FFD1DC"/>
+    <rect x="90" y="90" width="120" height="40" rx="5" fill="#FFF8E7"/>
+    
+    <!-- Candles -->
+    <rect x="110" y="60" width="5" height="30" fill="#C8A165"/>
+    <rect x="150" y="50" width="5" height="40" fill="#C8A165"/>
+    <rect x="190" y="60" width="5" height="30" fill="#C8A165"/>
+    
+    <!-- Flames -->
+    <circle cx="112.5" cy="60" r="5" fill="#FF9F1C"/>
+    <circle cx="152.5" cy="50" r="5" fill="#FF9F1C"/>
+    <circle cx="192.5" cy="60" r="5" fill="#FF9F1C"/>
+    
+    <!-- Decorations -->
+    <circle cx="110" cy="140" r="8" fill="#FFF"/>
+    <circle cx="150" cy="140" r="8" fill="#FFF"/>
+    <circle cx="190" cy="140" r="8" fill="#FFF"/>
+    
+    <circle cx="130" cy="170" r="8" fill="#FFF"/>
+    <circle cx="170" cy="170" r="8" fill="#FFF"/>
+    
+    <circle cx="150" cy="200" r="8" fill="#FFF"/>
+    
+    <text x="150" y="245" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">Birthday Cake</text>
+</svg>

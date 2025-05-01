@@ -1,0 +1,37 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="300" fill="#F8F8F8"/>
+    
+    <!-- Background Circle -->
+    <circle cx="150" cy="150" r="120" fill="#E6F4FF" opacity="0.7"/>
+    
+    <!-- Person Silhouette -->
+    <circle cx="150" cy="100" r="50" fill="#E0C8A0"/>  <!-- Head -->
+    
+    <!-- Hair -->
+    <path d="M110 85 C110 65 130 50 150 50 C170 50 190 65 190 85 L190 100 C190 100 180 120 150 120 C120 120 110 100 110 100 L110 85 Z" fill="#4D3219"/>
+    
+    <!-- Eyes -->
+    <circle cx="130" cy="95" r="6" fill="#472D25"/>
+    <circle cx="170" cy="95" r="6" fill="#472D25"/>
+    
+    <!-- Smile -->
+    <path d="M130 115 C140 125, 160 125, 170 115" stroke="#472D25" stroke-width="3" fill="none"/>
+    
+    <!-- Business Suit -->
+    <rect x="120" y="150" width="60" height="100" rx="5" fill="#2C3E50"/>
+    
+    <!-- Shirt and Tie -->
+    <rect x="135" y="150" width="30" height="60" rx="2" fill="#FFFFFF"/>
+    <path d="M150 150 L140 185 L150 210 L160 185 L150 150 Z" fill="#E74C3C"/>
+    
+    <!-- Tablet/Device -->
+    <rect x="110" y="180" width="40" height="30" rx="3" fill="#34495E"/>
+    <rect x="115" y="185" width="30" height="20" rx="2" fill="#ECF0F1"/>
+    
+    <!-- Arms -->
+    <rect x="90" y="160" width="30" height="15" rx="7.5" fill="#2C3E50"/>
+    <rect x="180" y="160" width="30" height="15" rx="7.5" fill="#2C3E50"/>
+    
+    <text x="150" y="270" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">Vikram Soni</text>
+    <text x="150" y="290" font-family="Arial" font-size="12" fill="#666" text-anchor="middle">Operations Manager</text>
+</svg>

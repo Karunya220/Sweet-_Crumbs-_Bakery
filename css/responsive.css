@@ -1,0 +1,200 @@
+/* 
+   Sweet Crumbs Bakery - Responsive Stylesheet
+   Author: Web Developer
+   Version: 1.0
+*/
+
+/* Tablets and Small Laptops */
+@media screen and (max-width: 992px) {
+    /* Global Adjustments */
+    :root {
+        --section-spacing: 60px;
+    }
+    
+    h1 {
+        font-size: 2.2rem;
+    }
+    
+    h2 {
+        font-size: 1.8rem;
+    }
+    
+    /* Layout Adjustments */
+    .products-grid,
+    .info-grid,
+    .values-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .about-content,
+    .story-content,
+    .custom-content,
+    .form-map-grid {
+        grid-template-columns: 1fr;
+        gap: calc(var(--base-spacing) * 1.5);
+    }
+    
+    .footer-content {
+        grid-template-columns: 1fr 1fr;
+    }
+    
+    /* Hero Section */
+    .hero {
+        height: 500px;
+    }
+    
+    .hero h1 {
+        font-size: 2.5rem;
+    }
+}
+
+/* Mobile Devices */
+@media screen and (max-width: 768px) {
+    /* Global Adjustments */
+    :root {
+        --section-spacing: 50px;
+    }
+    
+    .container {
+        padding: 0 calc(var(--base-spacing) * 0.75);
+    }
+    
+    h1 {
+        font-size: 2rem;
+    }
+    
+    h2 {
+        font-size: 1.6rem;
+    }
+    
+    /* Header & Navigation */
+    .nav-links {
+        position: fixed;
+        top: 70px;
+        left: 0;
+        width: 100%;
+        background-color: var(--light-color);
+        flex-direction: column;
+        align-items: center;
+        padding: var(--base-spacing) 0;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        transform: translateY(-150%);
+        transition: transform 0.3s ease;
+    }
+    
+    .nav-links.active {
+        transform: translateY(0);
+    }
+    
+    .nav-links li {
+        margin: calc(var(--base-spacing) / 2) 0;
+    }
+    
+    .mobile-menu-toggle {
+        display: block;
+    }
+    
+    /* Layout Adjustments */
+    .products-grid,
+    .info-grid,
+    .team-grid,
+    .gallery-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .values-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .footer-content {
+        grid-template-columns: 1fr;
+        text-align: center;
+    }
+    
+    .footer-links h3::after, 
+    .footer-social h3::after {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    
+    .social-icons {
+        justify-content: center;
+    }
+    
+    /* Hero Section */
+    .hero {
+        height: 400px;
+    }
+    
+    .hero h1 {
+        font-size: 2rem;
+    }
+    
+    .hero p {
+        font-size: 1rem;
+    }
+    
+    /* Page Banner */
+    .page-banner {
+        height: 200px;
+    }
+    
+    .page-banner h1 {
+        font-size: 2rem;
+    }
+}
+
+/* Small Mobile Devices */
+@media screen and (max-width: 480px) {
+    /* Global Adjustments */
+    :root {
+        --section-spacing: 40px;
+    }
+    
+    .container {
+        padding: 0 var(--base-spacing);
+    }
+    
+    h1 {
+        font-size: 1.8rem;
+    }
+    
+    h2 {
+        font-size: 1.4rem;
+    }
+    
+    .btn {
+        padding: 10px 20px;
+        font-size: 0.9rem;
+    }
+    
+    /* Layout Adjustments */
+    .values-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    /* Hero Section */
+    .hero {
+        height: 350px;
+    }
+    
+    .hero h1 {
+        font-size: 1.8rem;
+    }
+    
+    /* Filter Buttons */
+    .filter-buttons {
+        flex-direction: column;
+        gap: calc(var(--base-spacing) / 2);
+    }
+    
+    .filter-btn {
+        width: 100%;
+    }
+    
+    /* Social Links */
+    .social-links {
+        flex-direction: column;
+        gap: var(--base-spacing);
+    }
+}

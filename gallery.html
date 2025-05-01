@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery - Sweet Crumbs Bakery</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="container">
+            <div class="logo">
+                <a href="index.html">
+                    <img src="assets/logo.svg" alt="Sweet Crumbs Bakery Logo">
+                </a>
+            </div>
+            <nav>
+                <div class="mobile-menu-toggle">
+                    <i class="fas fa-bars"></i>
+                </div>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="products.html">Products</a></li>
+                    <li><a href="gallery.html" class="active">Gallery</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Page Banner -->
+    <section class="page-banner">
+        <div class="container">
+            <h1>Our Gallery</h1>
+            <p>A visual feast of our delicious creations</p>
+        </div>
+    </section>
+
+    <!-- Gallery Filter -->
+    <section class="gallery-filter">
+        <div class="container">
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="cakes">Cakes</button>
+                <button class="filter-btn" data-filter="breads">Breads</button>
+                <button class="filter-btn" data-filter="pastries">Pastries</button>
+                <button class="filter-btn" data-filter="events">Events</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery Section -->
+    <section class="gallery-section">
+        <div class="container">
+            <div class="gallery-grid">
+                <!-- Cakes -->
+                <div class="gallery-item" data-category="cakes">
+                    <img src="assets/images/birthday-cake-gallery.svg" alt="Birthday Cake">
+                    <div class="gallery-overlay">
+                        <div class="overlay-content">
+                            <h3>Birthday Cake</h3>
+                            <p>Chocolate cake with buttercream frosting</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="gallery-item" data-category="cakes">
+                    <img src="assets/images/wedding-cake-gallery.svg" alt="Wedding Cake">
+                    <div class="gallery-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Cake</h3>
+                            <p>Three-tier vanilla cake with fondant details</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="gallery-item" data-category="cakes">
+                    <img src="assets/images/anniversary-cake.svg" alt="Anniversary Cake">
+                    <div class="gallery-overlay">
+                        <div class="overlay-content">
+                            <h3>Anniversary Cake</h3>
+                            <p>Red velvet cake with cream cheese frosting</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="gallery-item" data-category="cakes">
+                    <img src="assets/images/cupcake-collection.svg" alt="Cupcakes">
+                    <div class="gallery-overlay">
+                        <div class="overlay-content">
+                            <h3>Cupcake Collection</h3>
+                            <p>Assorted flavors with different toppings</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="gallery-item" data-category="cakes">
+                    <img src="assets/images/designer-cake.svg" alt="Designer Cake">
+                    <div class="gallery-overlay">
+                        <div class="overlay-content">
+                            <h3>Designer Cake</h3>
+                            <p>Custom design for a special celebration</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Breads -->
+                <div class="gallery-item" data-category="breads">
+                    <img src="https://images.unsplash.com/photo-1549931319-a545dcf3bc7c" alt="Sourdough Bread">
+                    <div class="gallery-overlay">
+                        <div class="overlay-content">
+                            <h3>Sourdough Bread</h3>
+                            <p>Artisanal bread with perfect crust</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="gallery-item" data-category="breads">
+                    <img src="https://images.unsplash.com/photo-1586444248902-2f64eddc13df" alt="Multigrain Bread">
+                    <div class="gallery-overlay">
+                        <div class="overlay-content">
+                            <h3>Multigrain Bread</h3>
+                            <p>Healthy bread with mixed grains</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="gallery-item" data-category="breads">
+                    <img src="https://images.unsplash.com/photo-1517686469429-8bdb88b9f907" alt="Baguette">
+                    <div class="gallery-overlay">
+                        <div class="overlay-content">
+                            <h3>French Baguette</h3>
+                            <p>Traditional French-style crusty bread</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Pastries -->
+                <div class="gallery-item" data-category="pastries">
+                    <img src="https://images.unsplash.com/photo-1603532648955-039310d9ed75" alt="Croissants">
+                    <div class="gallery-overlay">
+                        <div class="overlay-content">
+                            <h3>Croissants</h3>
+                            <p>Buttery, flaky pastries</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="gallery-item" data-category="pastries">
+                    <img src="https://images.unsplash.com/photo-1505253716362-afaea1d3d1af" alt="Fruit Tarts">
+                    <div class="gallery-overlay">
+                        <div class="overlay-content">
+                            <h3>Fruit Tarts</h3>
+                            <p>Beautiful tarts with seasonal fruits</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="gallery-item" data-category="pastries">
+                    <img src="https://images.unsplash.com/photo-1602351447937-745cb720612f" alt="Danish Pastry">
+                    <div class="gallery-overlay">
+                        <div class="overlay-content">
+                            <h3>Danish Pastry</h3>
+                            <p>Sweet pastries with various fillings</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Events -->
+                <div class="gallery-item" data-category="events">
+                    <img src="https://images.unsplash.com/photo-1525268323446-0505b6fe7778" alt="Wedding Event">
+                    <div class="gallery-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Celebration</h3>
+                            <p>Cake and dessert spread for a beautiful wedding</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="gallery-item" data-category="events">
+                    <img src="https://images.unsplash.com/photo-1464349095431-e9a21285b5c3" alt="Birthday Party">
+                    <div class="gallery-overlay">
+                        <div class="overlay-content">
+                            <h3>Birthday Party</h3>
+                            <p>Dessert table for a special birthday</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="gallery-item" data-category="events">
+                    <img src="https://images.unsplash.com/photo-1533777857889-4be7c70b33f7" alt="Corporate Event">
+                    <div class="gallery-overlay">
+                        <div class="overlay-content">
+                            <h3>Corporate Event</h3>
+                            <p>Catering for a business function</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Lightbox Modal -->
+    <div id="gallery-lightbox" class="lightbox">
+        <span class="close-lightbox">&times;</span>
+        <img class="lightbox-content" id="lightbox-image">
+        <div id="lightbox-caption"></div>
+    </div>
+
+    <!-- Custom Orders Call to Action -->
+    <section class="cta-section">
+        <div class="container">
+            <div class="cta-content">
+                <h2>Like What You See?</h2>
+                <p>We'd love to create something special for your next celebration!</p>
+                <a href="contact.html" class="btn primary-btn">Contact Us</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <img src="assets/logo.svg" alt="Sweet Crumbs Bakery Logo">
+                    <p>Spreading joy through delicious baked goods since 2021</p>
+                </div>
+                <div class="footer-links">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="products.html">Products</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-social">
+                    <h3>Connect With Us</h3>
+                    <div class="social-icons">
+                        <a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://wa.me/919876543210" target="_blank"><i class="fab fa-whatsapp"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2025 Sweet Crumbs Bakery. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript Files -->
+    <script src="js/main.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Gallery filtering
+            const filterButtons = document.querySelectorAll('.filter-btn');
+            const galleryItems = document.querySelectorAll('.gallery-item');
+
+            filterButtons.forEach(button => {
+                button.addEventListener('click', function() {
+                    // Remove active class from all buttons
+                    filterButtons.forEach(btn => btn.classList.remove('active'));
+                    // Add active class to clicked button
+                    this.classList.add('active');
+
+                    const filter = this.getAttribute('data-filter');
+
+                    galleryItems.forEach(item => {
+                        if (filter === 'all' || item.getAttribute('data-category') === filter) {
+                            item.style.display = 'block';
+                        } else {
+                            item.style.display = 'none';
+                        }
+                    });
+                });
+            });
+
+            // Lightbox functionality
+            const lightbox = document.getElementById('gallery-lightbox');
+            const lightboxImage = document.getElementById('lightbox-image');
+            const lightboxCaption = document.getElementById('lightbox-caption');
+            const closeLightbox = document.querySelector('.close-lightbox');
+
+            galleryItems.forEach(item => {
+                item.addEventListener('click', function() {
+                    const img = this.querySelector('img');
+                    const title = this.querySelector('h3').textContent;
+                    const desc = this.querySelector('p').textContent;
+
+                    lightboxImage.src = img.src;
+                    lightboxCaption.innerHTML = `<h3>${title}</h3><p>${desc}</p>`;
+                    lightbox.style.display = 'flex';
+                });
+            });
+
+            closeLightbox.addEventListener('click', function() {
+                lightbox.style.display = 'none';
+            });
+
+            // Close lightbox when clicking outside the image
+            lightbox.addEventListener('click', function(e) {
+                if (e.target === lightbox) {
+                    lightbox.style.display = 'none';
+                }
+            });
+        });
+    </script>
+</body>
+</html>

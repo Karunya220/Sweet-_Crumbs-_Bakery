@@ -1,0 +1,28 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="300" fill="#F8F8F8"/>
+    
+    <!-- Baguette -->
+    <path d="M50 160 C50 130 70 120 100 120 C150 125 200 125 250 120 C275 125 275 155 250 160 C210 165 150 165 100 160 C75 165 50 175 50 160 Z" fill="#DDB98F"/>
+    
+    <!-- Scoring marks -->
+    <path d="M80 135 L90 145" stroke="#9E7B41" stroke-width="2"/>
+    <path d="M110 130 L120 140" stroke="#9E7B41" stroke-width="2"/>
+    <path d="M140 130 L150 140" stroke="#9E7B41" stroke-width="2"/>
+    <path d="M170 130 L180 140" stroke="#9E7B41" stroke-width="2"/>
+    <path d="M200 130 L210 140" stroke="#9E7B41" stroke-width="2"/>
+    <path d="M230 135 L240 145" stroke="#9E7B41" stroke-width="2"/>
+    
+    <!-- Crust texture -->
+    <path d="M60 155 C90 150 150 150 240 155" stroke="#C8A165" stroke-width="4" stroke-linecap="round"/>
+    <path d="M70 145 C110 140 190 140 230 145" stroke="#C8A165" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- Flour dusting -->
+    <circle cx="100" cy="135" r="2" fill="#FFF8E7" opacity="0.6"/>
+    <circle cx="150" cy="133" r="2" fill="#FFF8E7" opacity="0.6"/>
+    <circle cx="200" cy="135" r="2" fill="#FFF8E7" opacity="0.6"/>
+    <circle cx="120" cy="145" r="2" fill="#FFF8E7" opacity="0.6"/>
+    <circle cx="170" cy="143" r="2" fill="#FFF8E7" opacity="0.6"/>
+    <circle cx="220" cy="145" r="2" fill="#FFF8E7" opacity="0.6"/>
+    
+    <text x="150" y="210" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">Baguette</text>
+</svg>

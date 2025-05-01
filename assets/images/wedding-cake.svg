@@ -1,0 +1,13 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="300" fill="#F8F8F8"/>
+    <circle cx="150" cy="80" r="40" fill="#FFD1DC"/>
+    <circle cx="150" cy="150" r="60" fill="#FFF8E7"/>
+    <circle cx="150" cy="230" r="70" fill="#C8A165"/>
+    <path d="M150 40 L150 10 M140 15 L160 15" stroke="#555" stroke-width="3"/>
+    <path d="M120 75 L100 55 M180 75 L200 55" stroke="#555" stroke-width="2"/>
+    <path d="M110 150 L80 130 M190 150 L220 130" stroke="#555" stroke-width="2"/>
+    <path d="M100 230 L60 210 M200 230 L240 210" stroke="#555" stroke-width="2"/>
+    <text x="150" y="85" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">Top Tier</text>
+    <text x="150" y="155" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">Middle Tier</text>
+    <text x="150" y="235" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">Bottom Tier</text>
+</svg>

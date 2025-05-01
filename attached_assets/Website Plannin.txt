@@ -1,0 +1,171 @@
+Website Planning Document for "Sweet Crumbs Bakery"
+
+
+---
+
+1. Brief About the Business
+
+Business Name: Sweet Crumbs Bakery
+
+Owner Name: Mrs. Radhika Soni
+
+Contact Number: +91 9876543210
+
+Email Address: sweetcrumbsbakery@gmail.com
+
+Physical Address: 45, Nehru Nagar, Near City Park, Beawar, Rajasthan – 305901
+
+Business Type: Bakery and Cafe
+
+Established: 2021
+
+Business Description:
+Sweet Crumbs Bakery is a cozy, locally loved bakery offering a range of freshly baked goods including cakes, cupcakes, cookies, artisanal breads, and pastries. Known for their customized designer cakes for birthdays, weddings, and events, they also serve coffee and quick snacks. Their focus is on using fresh, high-quality ingredients and maintaining a homely taste in every product.
+
+Business Timing:
+
+Monday to Saturday: 9:00 AM – 9:00 PM
+
+Sunday: 10:00 AM – 6:00 PM
+
+
+
+
+---
+
+2. Website Goals
+
+Build an online presence to attract more local customers.
+
+Showcase their variety of products and customized cake designs.
+
+Enable visitors to send inquiries for custom orders or bookings.
+
+Share customer testimonials and success stories.
+
+Display bakery location and make it easier for customers to visit.
+
+
+
+---
+
+3. Target Audience
+
+Local residents of Beawar and surrounding towns.
+
+Youth looking for trendy cakes and pastries.
+
+Families planning birthday parties, weddings, anniversaries.
+
+Small businesses or cafes interested in bulk orders.
+
+
+
+---
+
+4. Features Required
+
+Home Page: Introduction with featured images of top products.
+
+About Us Page: Story behind the bakery and team introduction.
+
+Products Page:
+
+Cakes (Designer Cakes, Wedding Cakes)
+
+Breads
+
+Pastries
+
+Cookies
+
+Seasonal Specials
+
+
+Gallery: High-quality images of bakery products and celebrations.
+
+Testimonials: Customer reviews with ratings.
+
+Contact Form: To allow customers to submit inquiries easily.
+
+Google Maps Integration: Showing bakery location.
+
+Social Media Links: Instagram and Facebook pages.
+
+
+
+---
+
+5. Design Preferences
+
+Color Theme:
+
+Pastel Pink (#FFD1DC)
+
+Cream (#FFF8E7)
+
+Light Brown (#C8A165)
+
+
+Typography:
+
+Primary Font: 'Poppins' for headers (Friendly and clean)
+
+Body Font: 'Roboto' for text (Simple and readable)
+
+
+Style:
+
+Warm, welcoming, and joyful.
+
+Lots of whitespace and focus on product images.
+
+Smooth animations (like hover effects on images).
+
+
+
+
+---
+
+6. Branding
+
+Logo Available: Yes (Cupcake with 'Sweet Crumbs' written stylishly).
+
+Brand Voice: Sweet, friendly, inviting.
+
+Preferred Tone: Homely and approachable rather than corporate.
+
+
+
+---
+
+7. Tools Planned to Use
+
+HTML5 for webpage structure.
+
+CSS3 for stylish layout and design.
+
+Bootstrap 5 for mobile responsiveness and prebuilt components.
+
+JavaScript for dynamic features (e.g., form validation, image sliders).
+
+Font Awesome for icons (e.g., social media, email).
+
+Google Forms integration (for inquiry form submission initially).
+
+Google Maps API to embed bakery location.
+
+Hosting: GitHub Pages (for free hosting initially).
+
+
+
+---
+
+8. Interview Summary (with Mrs. Radhika Soni)
+
+
+---
+
+Summary
+
+The website for Sweet Crumbs Bakery will serve as an attractive digital portfolio to showcase their products, share customer experiences, and allow potential customers to easily inquire about customized orders. It will use pastel colors, a welcoming design, and simple navigation, ensuring an excellent browsing experience on both desktop and mobile devices.

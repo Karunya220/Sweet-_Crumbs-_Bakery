@@ -1,0 +1,43 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="600" height="400" fill="#F8F8F8"/>
+    
+    <!-- Background - Bakery Shop -->
+    <rect x="50" y="50" width="500" height="300" rx="8" fill="#FFE9C8"/>
+    
+    <!-- Baker's Counter -->
+    <rect x="100" y="250" width="400" height="80" fill="#C8A165"/>
+    <rect x="100" y="245" width="400" height="10" fill="#9E7B41"/>
+    
+    <!-- Display Case -->
+    <rect x="120" y="180" width="360" height="60" rx="5" fill="#FFFFFF" opacity="0.7"/>
+    <line x1="120" y1="200" x2="480" y2="200" stroke="#DDDDDD" stroke-width="2"/>
+    <line x1="120" y1="220" x2="480" y2="220" stroke="#DDDDDD" stroke-width="2"/>
+    
+    <!-- Baker Person (Simplified) -->
+    <circle cx="300" cy="140" r="40" fill="#FFC5A0"/>  <!-- Face -->
+    <ellipse cx="300" cy="95" rx="35" ry="20" fill="#6D4534"/>  <!-- Hair -->
+    
+    <!-- Eyes -->
+    <circle cx="285" cy="135" r="5" fill="#472D25"/>
+    <circle cx="315" cy="135" r="5" fill="#472D25"/>
+    
+    <!-- Smile -->
+    <path d="M280 155 C290 165, 310 165, 320 155" stroke="#472D25" stroke-width="3" fill="none"/>
+    
+    <!-- Body/Apron -->
+    <rect x="270" y="180" width="60" height="100" fill="#FFD1DC"/>
+    <path d="M270 180 L260 280 L340 280 L330 180 Z" fill="#FFFFFF"/>
+    
+    <!-- Bakery Items Display -->
+    <circle cx="160" cy="200" r="15" fill="#FFD1DC"/>  <!-- Cake -->
+    <rect x="210" cy="190" width="30" height="20" fill="#DDB98F"/>  <!-- Bread -->
+    <rect x="260" cy="195" width="20" height="10" fill="#FFE9B1"/>  <!-- Pastry -->
+    <circle cx="370" cy="200" r="10" fill="#C8A165"/>  <!-- Cookie -->
+    <circle cx="420" cy="200" r="8" fill="#D13838"/>  <!-- Red fruit -->
+    
+    <!-- Sign -->
+    <rect x="200" y="80" width="200" height="40" rx="5" fill="#FFFFFF"/>
+    <text x="300" y="105" font-family="Arial" font-size="16" fill="#333333" text-anchor="middle">Sweet Crumbs Bakery</text>
+    
+    <text x="300" y="350" font-family="Arial" font-size="16" fill="#333333" text-anchor="middle">Mrs. Radhika Soni - Owner</text>
+</svg>

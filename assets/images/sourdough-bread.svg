@@ -1,0 +1,25 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="300" fill="#F8F8F8"/>
+    
+    <!-- Bread Base -->
+    <ellipse cx="150" cy="170" rx="100" ry="60" fill="#C8A165"/>
+    
+    <!-- Bread Top -->
+    <path d="M70 170 C70 170 100 100 150 100 C200 100 230 170 230 170" fill="#DDB98F"/>
+    
+    <!-- Bread Texture -->
+    <path d="M100 140 C115 125 135 120 150 120 C165 120 185 125 200 140" stroke="#9E7B41" stroke-width="2" fill="none"/>
+    <path d="M90 155 C110 135 135 130 150 130 C165 130 190 135 210 155" stroke="#9E7B41" stroke-width="2" fill="none"/>
+    
+    <!-- Cuts on top -->
+    <path d="M120 130 L130 145" stroke="#9E7B41" stroke-width="2"/>
+    <path d="M150 125 L150 140" stroke="#9E7B41" stroke-width="2"/>
+    <path d="M180 130 L170 145" stroke="#9E7B41" stroke-width="2"/>
+    
+    <!-- Flour dusting -->
+    <circle cx="130" cy="160" r="5" fill="#FFF8E7" opacity="0.6"/>
+    <circle cx="170" cy="155" r="4" fill="#FFF8E7" opacity="0.6"/>
+    <circle cx="145" cy="145" r="3" fill="#FFF8E7" opacity="0.6"/>
+    
+    <text x="150" y="245" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">Sourdough Bread</text>
+</svg>

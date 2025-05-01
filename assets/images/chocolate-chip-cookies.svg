@@ -1,0 +1,44 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="300" fill="#F8F8F8"/>
+    
+    <!-- Main Cookie -->
+    <circle cx="150" cy="150" r="80" fill="#DDB98F"/>
+    
+    <!-- Cookie Texture -->
+    <circle cx="130" cy="120" r="10" fill="#C8A165"/>
+    <circle cx="170" cy="130" r="8" fill="#C8A165"/>
+    <circle cx="150" cy="165" r="12" fill="#C8A165"/>
+    <circle cx="110" cy="160" r="9" fill="#C8A165"/>
+    <circle cx="180" cy="175" r="11" fill="#C8A165"/>
+    <circle cx="120" cy="190" r="10" fill="#C8A165"/>
+    
+    <!-- Chocolate Chips -->
+    <circle cx="115" cy="135" r="8" fill="#5E3B28"/>
+    <circle cx="145" cy="115" r="7" fill="#5E3B28"/>
+    <circle cx="180" cy="145" r="9" fill="#5E3B28"/>
+    <circle cx="155" cy="185" r="8" fill="#5E3B28"/>
+    <circle cx="125" cy="170" r="6" fill="#5E3B28"/>
+    <circle cx="95" cy="155" r="7" fill="#5E3B28"/>
+    <circle cx="195" cy="165" r="8" fill="#5E3B28"/>
+    <circle cx="165" cy="95" r="7" fill="#5E3B28"/>
+    
+    <!-- Cookie Edge Effect -->
+    <circle cx="150" cy="150" r="80" stroke="#C8A165" stroke-width="3" fill="none"/>
+    
+    <!-- Small Cookie -->
+    <circle cx="230" cy="200" r="40" fill="#DDB98F"/>
+    <circle cx="215" cy="185" r="5" fill="#5E3B28"/>
+    <circle cx="240" cy="175" r="6" fill="#5E3B28"/>
+    <circle cx="225" cy="210" r="7" fill="#5E3B28"/>
+    <circle cx="245" cy="195" r="4" fill="#5E3B28"/>
+    <circle cx="230" cy="200" r="40" stroke="#C8A165" stroke-width="2" fill="none"/>
+    
+    <!-- Broken Cookie -->
+    <path d="M80 90 C60 70 40 90 30 80 C20 70 40 40 70 50 C100 60 100 90 80 90 Z" fill="#DDB98F"/>
+    <circle cx="60" cy="60" r="6" fill="#5E3B28"/>
+    <circle cx="40" cy="75" r="5" fill="#5E3B28"/>
+    <circle cx="75" cy="70" r="7" fill="#5E3B28"/>
+    <path d="M80 90 C60 70 40 90 30 80 C20 70 40 40 70 50 C100 60 100 90 80 90 Z" stroke="#C8A165" stroke-width="2" fill="none"/>
+    
+    <text x="150" y="250" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">Chocolate Chip Cookies</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="300" fill="#F8F8F8"/>
+    
+    <!-- Background Circle -->
+    <circle cx="150" cy="150" r="120" fill="#FFECF5" opacity="0.7"/>
+    
+    <!-- Person Silhouette -->
+    <circle cx="150" cy="100" r="50" fill="#FFC5A0"/>  <!-- Head -->
+    
+    <!-- Hair -->
+    <path d="M100 90 C100 50 130 30 150 30 C170 30 200 50 200 90 C200 110 180 130 150 130 C120 130 100 110 100 90 Z" fill="#5E3B28"/>
+    
+    <!-- Eyes -->
+    <circle cx="130" cy="95" r="6" fill="#472D25"/>
+    <circle cx="170" cy="95" r="6" fill="#472D25"/>
+    
+    <!-- Smile -->
+    <path d="M130 115 C140 125, 160 125, 170 115" stroke="#472D25" stroke-width="3" fill="none"/>
+    
+    <!-- Dress/Smock -->
+    <path d="M120 150 L100 250 L200 250 L180 150 Z" fill="#FFD1DC"/>
+    
+    <!-- Apron -->
+    <path d="M130 150 L120 220 L180 220 L170 150 Z" fill="#FFFFFF"/>
+    <rect x="140" y="130" width="20" height="40" fill="#FFFFFF"/>
+    
+    <!-- Artist Tools -->
+    <rect x="90" y="170" width="60" height="5" rx="2.5" fill="#8E44AD"/>  <!-- Palette -->
+    <circle cx="100" cy="172.5" r="5" fill="#E74C3C"/>
+    <circle cx="115" cy="172.5" r="5" fill="#3498DB"/>
+    <circle cx="130" cy="172.5" r="5" fill="#2ECC71"/>
+    
+    <rect x="200" y="180" width="5" height="30" fill="#8E44AD"/>  <!-- Paintbrush -->
+    <path d="M200 180 L190 170 L185 175 L200 180 Z" fill="#F1C40F"/>
+    
+    <text x="150" y="270" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">Priya Sharma</text>
+    <text x="150" y="290" font-family="Arial" font-size="12" fill="#666" text-anchor="middle">Cake Designer</text>
+</svg>
